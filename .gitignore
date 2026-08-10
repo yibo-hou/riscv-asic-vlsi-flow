@@ -1,0 +1,24 @@
+!.gitignore
+!README.md
+!01_mp_stdcell/
+!01_mp_stdcell/**
+!02_mp_datapath/
+!02_mp_datapath/**
+!03_mp_pnr/
+!03_mp_pnr/**
+!cds.lib
+!lib.defs
+!.cdsinit
+
+# Private grading records and local/editor state
+**/_grade/
+**/grade/
+**/.vscode/
+**/.DS_Store
+**/.nfs*
+**/*.cdslck*
+**/*.oa-
+**/maestro/
+03_mp_pnr/*.dat/
+cds.lib
+.cdsinit
